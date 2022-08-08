@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringMVC:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1def98c5-ef39-40d4-97bf-3822c4ba659f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnotationReflection/AnotationReflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankCase/BankCase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankCase/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JpaMeny/src/main/java/Case1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l1/l1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new lessons/new lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XZ/Desktop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/l1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Arrays_of_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Brace_Continium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Chel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/ClassesAndObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Humans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Humanss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons28/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons28/test/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons29/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons29/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons29/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons29/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons30/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons31/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons33/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons34Wildcards/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons34Wildcards/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons34Wildcards/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons35Anon/AbleToEat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons35Anon/test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons35Anon/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons36ReadtheFile/ReadingForFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons38Exeption2/Exeption2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons41AbstractClass/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons41AbstractClass/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons41AbstractClass/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons41AbstractClass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons42Equals/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons42Equals/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons43VlogClass/Electrocar$Motor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons43VlogClass/Electrocar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons43VlogClass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Lessons45WwriteinFile/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Myltidimensional_arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Swich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/Varables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/WhileLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/helloworld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons26/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons26/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons26/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons26/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons27/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons27/forest/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons27/forest/Treee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/lessons37Exceptions1/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/out/production/l1/testFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Arrays_of_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Brace_Continium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/ClassesAndObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/If.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons28/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons28/test/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons29/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons29/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons29/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons29/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons30/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons31/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons33/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons34Wildcards/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons34Wildcards/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons34Wildcards/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons35Anon/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons36ReadtheFile/ReadingForFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons38Exeption2/Exeption2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons41AbstractClass/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons41AbstractClass/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons41AbstractClass/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons41AbstractClass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons42Equals/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons43VlogClass/Electrocar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons43VlogClass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Lessons45WwriteinFile/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Myltidimensional_arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Swich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/Varables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/WhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons26/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons26/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons26/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons26/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons27/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons27/forest/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons27/forest/Treee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/lessons37Exceptions1/Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/src/testFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../l1/testFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/new lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/MetaAcademy/EmsAndEns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/MetaAcademy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/StreamAPI/Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/Test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l1ObjectClass/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l1ObjectClass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/home/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/home/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/home2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l2OOP/home2/Triangle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Circule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l3Наследование/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/MyExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Sex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Unity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l4EXEPTION/Voenkom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/MessageProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/MessageRenderClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/MessageSupportFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/MessegeProviderOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/MessegeProviderTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l5Reflection/RenderMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l6colection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l7Reader/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l7Reader/TextAnalyze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l7Reader/text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l8ColaDrink/ColaDeqe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l8ColaDrink/ColaMashine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l8ColaDrink/DoubleCola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/src/l8ColaDrink/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new lessons/wdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testFile" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BtVheEKRw4gb1bpljG97aa23ih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PRO/Clear project/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/lib/gson-2.8.6.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ebf85741b99c595fd8e371acde50121c&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringMVC:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b90ee47c-4887-4b98-9ffa-e808995098a2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50829" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVC:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1def98c5-ef39-40d4-97bf-3822c4ba659f" name="Changes" comment="" />
+      <created>1657725499910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657725499910</updated>
+      <workItem from="1657725505394" duration="796000" />
+      <workItem from="1657726427691" duration="2662000" />
+      <workItem from="1657891236645" duration="3467000" />
+      <workItem from="1657901564438" duration="3951000" />
+      <workItem from="1657974439298" duration="9612000" />
+      <workItem from="1658063679702" duration="5971000" />
+      <workItem from="1658134650070" duration="1185000" />
+      <workItem from="1658235258946" duration="3920000" />
+      <workItem from="1658766041053" duration="674000" />
+      <workItem from="1658838568554" duration="3042000" />
+      <workItem from="1658953324937" duration="143000" />
+      <workItem from="1659004469186" duration="956000" />
+      <workItem from="1659007267170" duration="785000" />
+      <workItem from="1659042185412" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
