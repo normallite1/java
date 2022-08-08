@@ -1,0 +1,1 @@
+insert into books (title, author, quantity) values ('War and Peace', 'Lox',10);
